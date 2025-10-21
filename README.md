@@ -1,5 +1,5 @@
 #### Hi there, 
-My name is Diana, and I am a Data Science Student at Carleton University. I host my personal projects here.
+👋 My name is Diana, and I am a Data Science Student at Carleton University. I host my personal projects here.
 
 📘 I’m currently learning about privacy preserving techniques in machine learning.   
 
