@@ -1,6 +1,6 @@
-#### Hi there, 
-👋 My name is Diana, and I am a data science student at Carleton University. Previously, a criminology and psych graduate.  
+#### Hi there,  
+👋 My name is Diana, and I'm currently a data science student at Carleton University. I have a background in criminology and psychology.  
 
-📘 I’m currently learning about responsible AI practices and developing a tool that can assess organization's maturity when it comes to responsible AI.    
+📘 Right now, I am learning about responsible and trustworthy AI. Currently, I'm developing a method for measuring AI's trustworthiness. 
 
-🩻 Recently implemented parameter-efficient-fine-tuning (PEFT) on an LLM. Model was fine-tuned on medical domain expertise and is now available on HuggingFace: https://huggingface.co/Deanna/doctorgpt-ft.  
+🩻 Recently, I implemented parameter-efficient fine-tuning (PEFT) on a large language model (LLM). The model has been fine-tuned for medical domain expertise and is now available on Hugging Face: [DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft).  
