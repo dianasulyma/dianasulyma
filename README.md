@@ -1,5 +1,5 @@
 #### Hi there, 
-👋 My name is Diana, and I am a Data Science Student at Carleton University. Previously a criminology and psych graduate.  
+👋 My name is Diana, and I am a data science student at Carleton University. Previously a criminology and psych graduate.  
 
 📘 I’m currently learning about responsible AI practices and developing a project that can assess organization's maturity when it comes to responsible AI.    
 
