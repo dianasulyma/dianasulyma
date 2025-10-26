@@ -3,4 +3,4 @@
 
 📘 I'm developing a method for measuring AI's trustworthiness. I hope to turn this into my thesis topic. 
 
-🩻 Recently, I implemented parameter-efficient fine-tuning (PEFT) on a large language model (LLM). The model has been fine-tuned for medical domain expertise and is now available on Hugging Face: [DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft).  
+🩻 Recently, I implemented parameter-efficient fine-tuning (PEFT) on a large language model (LLM). The model has been fine-tuned on medical domain expertise and is now available on Hugging Face: [DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft).  
