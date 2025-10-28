@@ -1,5 +1,7 @@
 #### Hi there,  
-👋  My name is Diana, and I'm currently a master student in data science at Carleton University. I have a background in criminology and psychology.  
+👋  My name is Diana, and I'm currently a master student in data science at Carleton University. I have a background in criminology and psychology. 
+
+💡  All projects on here are my personal ones for educational development (and for fun).  
 
 📘  I'm developing a method for measuring AI's trustworthiness. I hope to turn this into my thesis topic. 
 
