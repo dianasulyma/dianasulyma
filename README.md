@@ -6,9 +6,9 @@ Recently, I implemented **parameter-efficient fine-tuning (PEFT)** on a large la
 
 This repo includes projects on:
 - **Machine learning** for forecasting
-- **Computer vision** exploration on projects in object detection and region of interest extraction  
+- **Computer vision** exploration for object detection and region-of-interest extraction  
 - **Natural language processing (NLP)** and domain adaptation  
 - Occasional creative explorations 
 
-Open to collaborating on projects! 
+Open to collaborations! 
 
