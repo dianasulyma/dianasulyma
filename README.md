@@ -1,8 +1,15 @@
-#### Hi there,  
-👋  My name is Diana, and I'm a master student in data science at Carleton University. I have a background in criminology and psychology. 
+### 👋 Hi, I’m Diana  
 
-💡  All projects on here are for personal skills and educational development (and for fun).  
+I’m a **Master’s student in Data Science with background in criminology and psychology. My current research focuses on **quantifying AI trustworthiness**.  
 
-📘  Currently, I'm developing a method for measuring AI's trustworthiness. I hope to turn this into my thesis topic. 
+Recently, I implemented **parameter-efficient fine-tuning (PEFT)** on a large language model trained for **medical expertise** — available on Hugging Face:  
+[DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft)  
 
-🩻  Recently, I implemented parameter-efficient fine-tuning (PEFT) on a large language model (LLM). The model has been fine-tuned on medical domain expertise and is now available on Hugging Face: [DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft).  
+This repo includes projects on:
+- **Machine learning** for forecasting
+- **Computer vision** exploration on projects in object detection and region of interest extraction  
+- **Natural language processing (NLP)** and domain adaptation  
+- Occasional creative explorations 
+
+Open to collaborating on projects! 
+
