@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Diana  
 
-I’m a **Master’s student in Data Science with background in criminology and psychology. My current research focuses on **quantifying AI trustworthiness**.  
+I’m a master’s student in Data Science with background in criminology and psychology. My current research focuses on **quantifying AI trustworthiness**.  
 
 Recently, I implemented **parameter-efficient fine-tuning (PEFT)** on a large language model trained for **medical expertise** — available on Hugging Face:  
 [DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft)  
