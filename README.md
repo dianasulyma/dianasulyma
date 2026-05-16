@@ -1,4 +1,4 @@
-Hi, I’m Diana Sulyma. I’m a master’s student in Data Science with background in criminology and psychology. My current research focuses on quantifying AI trustworthiness.  
+Hi, I’m Diana Sulyma. I’m a master’s student in Data Science.  
 
 Recently, I implemented parameter-efficient fine-tuning (PEFT) on a large language model trained for medical expertise** — available on Hugging Face: [DoctorGPT-FineTuned](https://huggingface.co/Deanna/doctorgpt-ft)  
 
