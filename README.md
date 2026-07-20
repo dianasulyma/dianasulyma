@@ -1,8 +1,9 @@
-Master's student in Data Science, Analytics & AI focused on building practical data solutions through analytics, machine learning, and software engineering.
+Master's student in Data Science, Analytics & AI.
 
-## Areas of Interest
+#### Areas of Interest
 - Data Analytics & Business Intelligence
 - Machine Learning & Predictive Analytics
+- Computer Vision 
 - Data Engineering & MLOps
 
 ## Tech Stack
