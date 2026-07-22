@@ -1,4 +1,4 @@
-#### About me 
+### About me 
 Master's student in Data Science, Analytics & AI.
 
 #### Areas of Interest
@@ -7,9 +7,9 @@ Master's student in Data Science, Analytics & AI.
 - Computer Vision 
 - Data Engineering & MLOps
 
-#### Tech Stack
+### Tech Stack
 
-### Programming Languages
+#### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -36,7 +36,6 @@ Master's student in Data Science, Analytics & AI.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ##### Visualization & Dashboarding
 
