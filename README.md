@@ -1,5 +1,5 @@
 ## About me 
-Master's student in Data Science, Analytics & AI.
+Master's student in Data Science, Analytics & AI at Carleton University.
 
 ## Areas of Interest
 - Data Analytics & Business Intelligence
