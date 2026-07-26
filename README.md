@@ -2,11 +2,11 @@
 Master's student in Data Science, Analytics & AI at Carleton University.
 
 ## Areas of Interest
-- Data Analytics & Business Intelligence
+- Data Analytics 
 - Machine Learning 
-- Computer Vision 
+- Computer Vision
 
-## Tech Stack
+## Tools and Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
