@@ -2,9 +2,8 @@
 Master's student in Data Science, Analytics & AI at Carleton University.
 
 ## Areas of Interest
-- Data Analytics 
-- Machine Learning 
-- Computer Vision
+- Machine Learning in Healthcare 
+- Business Analytics  
 
 ## Technical Skills
 
